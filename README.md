@@ -1,6 +1,6 @@
 # BerkeleyMLMods
 
-In this notebook, I will atempt to translate to all the Machine Learning algorithm in theory that  I learned from UC Berkeley ML/AI during my 6 months online cohort into modular programing.
+In this package, I will atempt to translate to all the Machine Learning algorithm in theory that I learned from UC Berkeley ML/AI during my 6 months online cohort into modular programing.
 
 All algorithm will be attempt to be written in modular programming for cleaner code and usability.
 
