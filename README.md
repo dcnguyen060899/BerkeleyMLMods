@@ -9,7 +9,8 @@ After every implementation of the algorithms in code, I will provide leetcode li
 I've create this repo:
 https://github.com/dcnguyen060899/BerkeleyMLMods
 
-because:
+For two reasons:
+
 1. UC Berkeley program goes through the theory of ML and only use procedural programming (Using Functions) to implement algorithm.
 
 2. I want to apply modular structure Object-Oriented Programming (Using Classes) on to algorithms for every Machine Learning concepts I learned and understood from the program.
