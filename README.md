@@ -14,7 +14,8 @@ For two reasons:
 1. UC Berkeley program goes through the theory of ML and only use procedural programming (Using Functions) to implement algorithm.
 
 2. I want to apply modular structure Object-Oriented Programming (Using Classes) on to algorithms for every Machine Learning concepts I learned and understood from the program.
-  2.1 For learning purposes, I want to apply my data structure and algorithm skills.
+
+   2.1 For learning purposes, I want to apply my data structure and algorithm skills.
 
 After this program finished, you may git clone my BerkeleyMLMods packages to use the algorithm from the library on your dataset.
 
