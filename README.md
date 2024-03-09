@@ -4,7 +4,7 @@ In this package, I will atempt to translate to all the Machine Learning algorith
 
 All algorithm will be attempt to be written in modular programming for cleaner code and usability.
 
-After every implementation of the algorithms in code, I will provide leetcode like problem to work through a problem solving question applying the algorithm.
+After every implementation of the algorithms in code, I will provide leetcode like problem to work through a problem solving question by applying the algorithm.
 
 I've create this repo:
 https://github.com/dcnguyen060899/BerkeleyMLMods
