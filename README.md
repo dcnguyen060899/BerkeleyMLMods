@@ -1,25 +1,25 @@
+---
+
 # BerkeleyMLMods
 
-In this package, I will atempt to translate to all the Machine Learning algorithm in theory that I learned from UC Berkeley ML/AI during my 6 months online cohort into modular programing.
+Welcome to the BerkeleyMLMods package, where the goal is to transform the theoretical machine learning algorithms I learned during my 6-month online cohort at UC Berkeley into a structured, accessible codebase. This package is designed with a focus on modularity and object-oriented principles, aiming to provide clean, reusable, and scalable code.
 
-All algorithm will be attempt to be written in modular programming for cleaner code and usability.
+Here's what the BerkeleyMLMods package offers:
 
-After every implementation of the algorithms in code, I will provide leetcode like problem to work through a problem solving question by applying the algorithm.
+- **Modular Design**: Each machine learning algorithm is encapsulated within its module, promoting clean code and high usability. This modular approach ensures that individual components can be maintained, updated, and used independently, aligning with best practices in software engineering.
 
-I've create this repo:
-https://github.com/dcnguyen060899/BerkeleyMLMods
+- **Object-Oriented Implementation**: While the original UC Berkeley program emphasized procedural programming (using functions), this package takes a different approach by implementing the algorithms using object-oriented programming (OOP). Each algorithm is crafted into classes, offering a structured and intuitive way to interact with the ML models, embodying the principles of encapsulation, inheritance, and polymorphism.
 
-For two reasons:
+- **Practical Exercises**: Accompanying each algorithm implementation, you'll find problem-solving questions, similar to those on platforms like LeetCode. These exercises are designed to help you apply the algorithms and deepen your understanding of their practical applications.
 
-1. UC Berkeley program goes through the theory of ML and only use procedural programming (Using Functions) to implement algorithm.
+- **Educational Journey**: The creation of this repository is driven by two main motivations:
+    1. To translate the theoretical understanding of ML algorithms into practical, executable code using a structured, object-oriented format.
+    2. To enhance learning by applying data structures and algorithmic thinking, documenting the thought process, and rationale behind each implementation.
 
-2. I want to apply modular structure Object-Oriented Programming (Using Classes) on to algorithms for every Machine Learning concepts I learned and understood from the program.
+- **Capstone Project**: The culmination of this project will involve using the developed package for a comprehensive analysis and modeling task, showcasing the applicability of the crafted algorithms in real-world datasets.
 
-   2.1 For learning purposes, I want to apply my data structure and algorithm skills. Walk through my though process and comment on why I implement the code that I use.
+- **Community Engagement**: Follow the development journey, module by module, week by week, and get insights into the implementation of machine learning algorithms through the lens of OOP and modular programming.
 
+Feel free to clone the BerkeleyMLMods repository from [GitHub](https://github.com/dcnguyen060899/BerkeleyMLMods) and utilize the algorithms in your projects. Stay tuned for regular updates and enhancements.
 
-After this program finished, you may git clone my BerkeleyMLMods packages to use the algorithm from the library on your dataset.
-
-With the final capstone project, I will be use my own packages that I wrote for analysis and modelling.
-
-**Follow me through each module each week.**
+---
