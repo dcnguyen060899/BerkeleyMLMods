@@ -1,5 +1,3 @@
----
-
 # BerkeleyMLMods
 
 Welcome to the BerkeleyMLMods package, where the goal is to transform the theoretical machine learning algorithms I learned during my 6-month online cohort at UC Berkeley into a structured, accessible codebase. This package is designed with a focus on modularity and object-oriented principles, aiming to provide clean, reusable, and scalable code.
@@ -21,5 +19,3 @@ Here's what the BerkeleyMLMods package offers:
 - **Community Engagement**: Follow the development journey, module by module, week by week, and get insights into the implementation of machine learning algorithms through the lens of OOP and modular programming.
 
 Feel free to clone the BerkeleyMLMods repository from [GitHub](https://github.com/dcnguyen060899/BerkeleyMLMods) and utilize the algorithms in your projects. Stay tuned for regular updates and enhancements.
-
----
